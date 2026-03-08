@@ -1,0 +1,5 @@
+# push 03/08/2026 02:05:43
+name = 'docs'
+main = 'worker.js'
+compatibility_date = '2026-03-08'
+workers_dev = true
